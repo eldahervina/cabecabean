@@ -13,7 +13,7 @@ cabai4<-as.data.frame(cabai4)
 colnames(cabai4)<-c("Jenis","Harga","Tanggal_Update","Status")
 cabai4$Harga<-as.numeric(gsub("\\D","",cabai4$Harga))
 
-#mongodb
+#mongoDB
 message('Input Data to MongoDB Atlas')
 atlas_conn <- mongo(
   collection = Sys.getenv("ATLAS_COLLECTION"),

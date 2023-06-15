@@ -40,7 +40,7 @@ industri makanan dan untuk peternakan
 </p>
 
 <p align="justify">
-Pada project kali ini dilakukan scraping pada website https://simhp.purbalinggakab.go.id/kategori/Cabai3,dimana pada website ini menampilkan harga cabai setiap harinya.
+Pada project kali ini dilakukan scraping pada website https://simhp.purbalinggakab.go.id/kategori/Cabai3, dimana pada website ini menampilkan harga cabai setiap harinya.
 </p>
 
 
@@ -56,4 +56,6 @@ Berikut link visualisasi dari data yang telah di scraping :
 ## :computer: **Visualisasi**
 (Datanya masih 3. hehehe.)
 Berikut link visualisasi dari data yang telah di scraping :
+
+
 **Elda Hervina Siagian (G1501222050)**
